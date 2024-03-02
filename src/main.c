@@ -15,6 +15,7 @@
  * if you have new LIS3DSH on STM32F4-Discovery board,
  * LED_BLUE and LED_ORANGE will be turned on for 2 seconds.
  *
+ *Modificacion para probar el git
  * If all leds are on, there was an error somewhere.
  */
 /* Include core modules */
